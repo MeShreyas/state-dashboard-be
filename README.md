@@ -39,6 +39,13 @@ mvn clean install -DskipTests
 
 This will create a snapshot jar in the target folder.
 
+## Format of google sheet
+
+You only need to update the District and Suspect tab. Do not rename these tabs, else the backend breaks
+
+[Sample Sheet](https://docs.google.com/spreadsheets/d/1Wv0dmcVjPM1JjysH73SeoAtkWOJKGSIUkh6-u-IC9Js/edit?usp=sharing)
+
+
 ## Usage
 
 ```bash
